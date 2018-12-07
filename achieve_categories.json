@@ -85,7 +85,6 @@
 { "id" : "15266", "title" : "Honor", "flags" : "0", "parent_id" : "95"},
 { "id" : "15268", "title" : "Promotions", "flags" : "0", "parent_id" : "81"},
 { "id" : "15269", "title" : "Mounts", "flags" : "0", "parent_id" : "81"},
-{ "id" : "15270", "title" : "Player vs. Player", "flags" : "0", "parent_id" : "81"},
 { "id" : "15273", "title" : "Reputation", "flags" : "0", "parent_id" : "81"},
 { "id" : "15274", "title" : "Events", "flags" : "0", "parent_id" : "81"},
 { "id" : "15277", "title" : "Dungeons", "flags" : "0", "parent_id" : "15234"},
