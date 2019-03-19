@@ -37,7 +37,7 @@
 { "id" : "14864", "title" : "Classic", "flags" : "0", "parent_id" : "201"},
 { "id" : "14865", "title" : "The Burning Crusade", "flags" : "0", "parent_id" : "201"},
 { "id" : "14866", "title" : "Wrath of the Lich King", "flags" : "0", "parent_id" : "201"},
-{ "id" : "14901", "title" : "Wintergrasp", "flags" : "0", "parent_id" : "15301"},
+{ "id" : "14901", "title" : "Wintergrasp", "flags" : "0", "parent_id" : "95"},
 { "id" : "14922", "title" : "Lich King Raid", "flags" : "0", "parent_id" : "168"},
 { "id" : "14941", "title" : "Argent Tournament", "flags" : "0", "parent_id" : "155"},
 { "id" : "14981", "title" : "Pilgrim's Bounty", "flags" : "0", "parent_id" : "155"},
